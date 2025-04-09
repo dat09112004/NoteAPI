@@ -1,0 +1,34 @@
+{
+  "notes": [ 
+  {
+      "id": 1,
+      "title": "Học Flutter",
+      "content": "Xem lại phần Provider và xử lý API.",
+      "priority": 3,
+      "createdAt": "2024-04-01T10:00:00Z",
+      "modifiedAt": "2024-04-02T12:00:00Z",
+      "tags": "học tập,flutter",
+      "color": "#2196F3"
+    },
+    {
+      "id": 2,
+      "title": "Mua sắm cuối tuần",
+      "content": "Mua rau, cá, thịt và trái cây.",
+      "priority": 2,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": "cá nhân,đi chợ",
+      "color": "#4CAF50"
+    },
+    {
+      "id": 3,
+      "title": "Gặp nhóm đồ án",
+      "content": "Trao đổi về phần backend và UI mobile.",
+      "priority": 1,
+      "createdAt": "2024-04-05T14:00:00Z",
+      "modifiedAt": "2024-04-05T14:30:00Z",
+      "tags": "dự án,teamwork",
+      "color": "#FF9800"
+    }
+  ]
+}
